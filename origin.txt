@@ -1,3 +1,4 @@
 origin-a.akamaihd.net
 lvlt.cdn.ea.com
 cdn-patch.swtor.com
+a23-223-52-9.deploy.static.akamaitechnologies.com
